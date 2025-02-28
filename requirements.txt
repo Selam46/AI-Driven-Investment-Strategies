@@ -1,9 +1,9 @@
 numpy
 pandas
-scipy
+scikit-learn
+statsmodels
+pmdarima
+tensorflow
 yfinance
 matplotlib
-seaborn
-plotly
-statsmodels
 seaborn
